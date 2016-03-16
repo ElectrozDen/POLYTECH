@@ -38,6 +38,8 @@ void loop(){
 
 Réalisation du schéma : (On travaille sur la led de l'arduino(pin 13))
 
+![Alt text](/relative/path/to/img.jpg?raw=true "")
+
 Algorithme: 
 
 Si PIN 2 == 1 alors envoyer 1 au PIN 13 (PIN 13 = 1)

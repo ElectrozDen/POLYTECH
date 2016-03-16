@@ -38,7 +38,7 @@ void loop(){
 
 Réalisation du schéma : (On travaille sur la led de l'arduino(pin 13))
 
-![Alt text](/relative/path/to/img.jpg?raw=true "")
+![Alt text](https://raw.githubusercontent.com/ElectrozDen/POLYTECH/master/TP_ARDUINO/img/img1.png "")
 
 Algorithme: 
 
@@ -48,6 +48,8 @@ Si PIN 2 == 1 alors envoyer 1 au PIN 13 (PIN 13 = 1)
 ## Potentiométre & Communication série: : 
 
 Réalisation du schéma :
+
+![Alt text](https://raw.githubusercontent.com/ElectrozDen/POLYTECH/master/TP_ARDUINO/img/img2.png "")
 
 Modification du sketck avec communication série: 
 

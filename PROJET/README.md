@@ -4,6 +4,8 @@
 
 ## Partie Electronique
 
+## Emetteur(Led)
+
 ### 1-
 La tension maximal de seuil pour Vdiode est 2.2V
 
@@ -28,3 +30,16 @@ Realisation du montage :
 ### 5-
 
 On trouve Ic = 49-50 mA selon notre mesure
+
+## Alimentation et conversion courant-tension
+
+### 6-
+
+Grâce à la documentation technique, on trouve : 
+
+### Vo = 50 mV
+
+On en deduit que Rpol = (Vcc+Vphoto)/Ip = 1.06 MOhm
+
+### Rpol = 1.06 MOhm
+

@@ -37,7 +37,7 @@ On trouve Ic = 49-50 mA selon notre mesure
 
 Grâce à la documentation technique, on trouve : 
 
-### Vo = 50 mV
+### Vo = 300 mV
 
 On en deduit que Rpol = (Vcc+Vphoto)/Ip = 1.06 MOhm
 

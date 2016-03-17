@@ -24,3 +24,7 @@ Loi des mailles : Rb=(Ve-Vbe)/Ib = (5-0.6)/0.0004 = 11kOhm
 Realisation du montage : 
 
 ![Alt text](https://raw.githubusercontent.com/ElectrozDen/POLYTECH/master/PROJET/img.png "")
+
+### 5-
+
+On trouve Ic = 49-50 mA selon notre mesure

@@ -18,3 +18,9 @@ Nous savons que Ic = Beta*Ib</br>
 ->Ib=Ic/Beta = 0.050/130 = 0.4 mA
 Loi des mailles : Rb=(Ve-Vbe)/Ib = (5-0.6)/0.0004 = 11kOhm
 ### Rb = 11kOhm
+
+### 4-
+
+Realisation du montage : 
+
+![Alt text](https://raw.githubusercontent.com/ElectrozDen/POLYTECH/master/PROJET/img.png "")

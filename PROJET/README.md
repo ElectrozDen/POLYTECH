@@ -54,3 +54,7 @@ Realisaton du montage :
 Vérification Oscilloscope : 
 
 ![Alt text](https://raw.githubusercontent.com/ElectrozDen/POLYTECH/master/PROJET/photo.JPG "")
+
+### 9-
+
+On trouve l'odre de grandeur de Vf = 10¨-1 (entre 0.62 et 0.72)

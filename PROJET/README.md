@@ -48,3 +48,9 @@ On en deduit que Rpol = (Vcc+Vphoto)/Ip = 1.06 MOhm
 Realisaton du montage : 
 
 ![Alt text](https://raw.githubusercontent.com/ElectrozDen/POLYTECH/master/PROJET/img2.png "")
+
+### 8- 
+
+Vérification Oscilloscope : 
+
+![Alt text](https://raw.githubusercontent.com/ElectrozDen/POLYTECH/master/PROJET/photo.JPG "")

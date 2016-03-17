@@ -64,3 +64,7 @@ On trouve l'odre de grandeur de Vf = 10¨-1 (entre 0.62 et 0.72)
 Loi des mailles : Rd = (Vcc-1.2)/I = (5-1.2)/0.005 = 3800Ohm
 
 ### Rd = 3.8 kOhm
+
+### 11-
+
+Nous obtenons bien la presence de 1.2V

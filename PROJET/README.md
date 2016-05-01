@@ -68,3 +68,35 @@ Loi des mailles : Rd = (Vcc-1.2)/I = (5-1.2)/0.005 = 3800Ohm
 ### 11-
 
 Nous obtenons bien la presence de 1.2V
+
+### 12-
+
+Nous savons que Rhp = 1/(C*2*PI*f)
+
+### Rhp = 28 kOhm
+
+### 13 - 14 
+
+Vérification réussi, tout est fonctionnel
+
+## Filte passe bas
+
+### 15 - 16
+
+Aprés avoir simplifier les expressions (dur et trés long de faire la demo sur un ordinateur) , noous trouvons pour f0 = 10Hz et m = 1 :
+
+### C2=C4=150 nF
+
+### 17 - 18
+
+Vérification réussi! Le signal montre que la phtotdiode capte bien la pulsation
+
+## Amplificateur
+
+19 - 20
+
+Aprés 3h d'archanement , nous avons réussi pour que le signal sur l'oscilloscope montre bien notre pulsation
+
+# Partie Programmation
+
+

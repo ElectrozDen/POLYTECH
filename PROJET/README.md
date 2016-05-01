@@ -105,5 +105,5 @@ https://github.com/ElectrozDen/POLYTECH/blob/master/PROJET/cardiaqueCode.c
 
 Lien vers le code LCD : 
 
-https://github.com/ElectrozDen/POLYTECH/blob/master/PROJET/cardiquelcd.h
+https://github.com/ElectrozDen/POLYTECH/blob/master/PROJET/cardiqualcd.h
 

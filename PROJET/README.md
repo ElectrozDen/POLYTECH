@@ -99,4 +99,11 @@ Aprés 3h d'archanement , nous avons réussi pour que le signal sur l'oscillosco
 
 # Partie Programmation
 
+Lien vers le code principal :
+
+https://github.com/ElectrozDen/POLYTECH/blob/master/PROJET/cardiaqueCode.c
+
+Lien vers le code LCD : 
+
+https://github.com/ElectrozDen/POLYTECH/blob/master/PROJET/cardiquelcd.h
 
